@@ -1,0 +1,7 @@
+source,identifier,term,category_or_ratio,adjusted_p_value
+GO,GO:0005576,extracellular region,CC,2.01e-05
+GO,GO:0006950,response to stress,BP,5.66e-05
+GO,GO:0016491,oxidoreductase activity,MF,1.25e-04
+GO,GO:0044281,small molecule metabolic process,BP,6.82e-04
+KEGG,00010,Glycolysis / Gluconeogenesis,14/47,0.00260
+KEGG,01100,Metabolic pathways,96/871,0.00521

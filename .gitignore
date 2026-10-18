@@ -1,0 +1,20 @@
+# Private coursework and screenshots
+*.docx
+*.doc
+screenshots/
+private-source/
+
+# Large or intermediate sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+
+# Local build and editor files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+work/

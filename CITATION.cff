@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this educational research artefact, please cite it using the metadata below."
+title: "Computational Bioinformatics: Reference-based RNA-seq and Plant GPX1 Phylogeny"
+type: dataset
+authors:
+  - name: "Rianzhan"
+version: 1.0.0
+date-released: 2026-10-18
+license: CC-BY-4.0
+repository-code: "https://github.com/Rianzhan/computational-bioinformatics-rnaseq-phylogeny"
+url: "https://github.com/Rianzhan/computational-bioinformatics-rnaseq-phylogeny"
+keywords:
+  - RNA-seq
+  - differential expression
+  - Galaxy
+  - GO enrichment
+  - KEGG
+  - phylogenetics
+  - GPX1
